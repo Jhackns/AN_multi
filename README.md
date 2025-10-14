@@ -176,33 +176,41 @@ Consejos de uso
 
 ---
 
-## Capturas de pantalla (placeholders)
+## Capturas de pantalla
 
 Cómo agregar imágenes
 - La carpeta `screenshots/` ya está creada en la raíz del proyecto.
 - Pega allí tus imágenes de la interfaz y de ejercicios.
 - Usa los nombres sugeridos o cambia las rutas en este archivo si eliges otros nombres.
 
-Galería (rutas de ejemplo)
+Galería
 - Inicio — pestaña Máximo:
-  
-  `![Inicio — pestaña Máximo](screenshots/home_max_tab.png)`
+
+  ![Inicio — pestaña Máximo](screenshots/home_max_tab.png)
 
 - Inicio — pestaña Mínimo:
-  
-  `![Inicio — pestaña Mínimo](screenshots/home_min_tab.png)`
+
+  ![Inicio — pestaña Mínimo](screenshots/home_min_tab.png)
+
+- Tarjeta “Función objetivo”:
+
+  ![Tarjeta Función objetivo](screenshots/objective_card.png)
+
+- Tarjeta “Restricciones” (selector de cantidad):
+
+  ![Tarjeta Restricciones](screenshots/config_card.png)
 
 - Resultados (chips x*, y*, z*):
-  
-  `![Resultados: óptimo](screenshots/results_card.png)`
+
+  ![Resultados — óptimo](screenshots/results_card.png)
 
 - Gráfico del polígono factible y punto óptimo:
-  
-  `![Gráfico: región factible y óptimo](screenshots/graph_optimum.png)`
+
+  ![Gráfico — región factible y óptimo](screenshots/graph_optimum.png)
 
 
 Nota
-- Estas rutas son referencias; al agregar tus imágenes con esos nombres, se mostrarán directamente en el README.
+- Las rutas ya apuntan a imágenes existentes en `screenshots/` y se mostrarán directamente en GitHub.
 - Si cambias nombres o agregas más capturas, ajusta las rutas en este documento.
 
 ---
