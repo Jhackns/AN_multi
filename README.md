@@ -12,6 +12,7 @@ Este documento te guía paso a paso desde cero: instalación de herramientas (An
 - Instalación rápida (Windows)
 - Despliegue en Android (emulador y APK)
 - Despliegue en Web y Windows
+- Capturas de pantalla
 - Uso de la aplicación (paso a paso)
 - Ejemplo guiado
 - Solución de problemas
@@ -172,6 +173,37 @@ Consejos de uso
 - Usa valores razonables (evita magnitudes excesivamente grandes) para una visualización clara.
 - Decimales son aceptados.
 - Si ves “No se encontró solución factible”, revisa el sistema de restricciones.
+
+---
+
+## Capturas de pantalla (placeholders)
+
+Cómo agregar imágenes
+- La carpeta `screenshots/` ya está creada en la raíz del proyecto.
+- Pega allí tus imágenes de la interfaz y de ejercicios.
+- Usa los nombres sugeridos o cambia las rutas en este archivo si eliges otros nombres.
+
+Galería (rutas de ejemplo)
+- Inicio — pestaña Máximo:
+  
+  `![Inicio — pestaña Máximo](screenshots/home_max_tab.png)`
+
+- Inicio — pestaña Mínimo:
+  
+  `![Inicio — pestaña Mínimo](screenshots/home_min_tab.png)`
+
+- Resultados (chips x*, y*, z*):
+  
+  `![Resultados: óptimo](screenshots/results_card.png)`
+
+- Gráfico del polígono factible y punto óptimo:
+  
+  `![Gráfico: región factible y óptimo](screenshots/graph_optimum.png)`
+
+
+Nota
+- Estas rutas son referencias; al agregar tus imágenes con esos nombres, se mostrarán directamente en el README.
+- Si cambias nombres o agregas más capturas, ajusta las rutas en este documento.
 
 ---
 
