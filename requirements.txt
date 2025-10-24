@@ -1,0 +1,22 @@
+# Dependencias para el Sistema de Redes Neuronales
+# ================================================
+
+# Computación numérica
+numpy>=1.21.0
+
+# Manipulación de datos
+pandas>=1.3.0
+
+# Visualización
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Estadísticas y análisis científico
+scipy>=1.7.0
+
+# Opcional: Para mejor rendimiento
+# numba>=0.56.0  # Compilación JIT para acelerar cálculos
+
+# Opcional: Para notebooks Jupyter
+# jupyter>=1.0.0
+# ipykernel>=6.0.0
