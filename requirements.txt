@@ -14,6 +14,10 @@ seaborn>=0.11.0
 # Estadísticas y análisis científico
 scipy>=1.7.0
 
+# Aprendizaje automático (obligatorio)
+scikit-learn
+tensorflow
+
 # Opcional: Para mejor rendimiento
 # numba>=0.56.0  # Compilación JIT para acelerar cálculos
 
